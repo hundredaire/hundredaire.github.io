@@ -1,5 +1,10 @@
 <header>
-
+Jairus Gatlin Jairusgatlin@gmail.com
+  Choose the repository you want to clone from the list of your Github repositories. In this case,
+select the repository with the name "username.github.io."
+Step 8: Choose the location on your computer where you want to clone the repository. You can either
+choose an existing folder or create a new one.
+Step 9: Click on "Clone repository." This will download a copy of the repository to your computer
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
